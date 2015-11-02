@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://trello.com/*"],
-      "css": ["/source/clean.css"],
+      "css": ["/source/trello-clean.css"],
       "run_at": "document_end"
     }
   ]
