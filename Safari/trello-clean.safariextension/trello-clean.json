@@ -1,9 +1,0 @@
-[{
-  "trigger": {
-    "url-filter": "trello.com"
-  },
-  "action": {
-    "selector": ".js-add-list.list-wrapper.mod-add.is-idle",
-    "type": "css-display-none"
-  }
-}]
