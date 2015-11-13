@@ -10,8 +10,3 @@ This Chrome extension solves the problem:
 FYI
 If you want to add new lists to your board, just go to the installed extensions (chrome://extensions/). There you can disable and enable the extension.
 
-
-# Data
-
-Google Analytics ID 
-UA-7101703-7
