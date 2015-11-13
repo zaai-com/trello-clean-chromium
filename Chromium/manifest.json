@@ -3,9 +3,9 @@
 
   "name": "Trello Clean",
   "description": "Get a clean board on Trello.com",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Manuel Gruber",
-  "homepage_url": "http://manuelgruber.com",
+  "homepage_url": "http://manuelgruber.com/trello-clean",
   "content_scripts": [
     {
       "matches": ["https://trello.com/*"],
