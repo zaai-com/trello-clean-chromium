@@ -1,16 +1,20 @@
 {
-  "manifest_version": 2,
-
+  "manifest_version": 3,
   "name": "Trello Clean",
   "description": "Get a clean board on Trello.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Manuel Gruber",
   "homepage_url": "http://manuelgruber.com/trello-clean",
   "content_scripts": [
     {
-      "matches": ["https://trello.com/*"],
-      "css": ["/trello-clean.css"],
+      "matches": [
+        "https://trello.com/*"
+      ],
+      "css": [
+        "/trello-clean.css"
+      ],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "content_security_policy": {}
 }

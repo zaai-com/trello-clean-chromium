@@ -1,3 +1,6 @@
 .js-add-list.list-wrapper.mod-add.is-idle {
   display: none;
 }
+button[data-testid="list-composer-button"] {
+  display: none;
+}
